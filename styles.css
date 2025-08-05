@@ -363,6 +363,10 @@ header {
   linear-gradient(230deg, rgb(176, 176, 255), rgba(0,0,255,0) 100%);
 }
 
+.square.cad {
+  background-image: linear-gradient(orange, yellow, blue);
+}
+
 .dark .square {
   background: rgb(71, 71, 71);
 }
