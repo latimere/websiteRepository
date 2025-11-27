@@ -34,3 +34,7 @@ body {
 .lawnLogo {
     margin-top: 1.5cm;
 }
+
+.formButton {
+  border-radius: 15px;
+}
